@@ -9,7 +9,9 @@ npm install
 ```
 npm run start
 ```
-
+### login
+please check user.json in db folder
+```
 ### Compiles and minifies for production
 ```
 npm run build
@@ -20,5 +22,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
