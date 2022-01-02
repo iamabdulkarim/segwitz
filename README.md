@@ -10,9 +10,9 @@ npm install
 npm run start
 ```
 ### login
-please check user.json in db folder
+
 ```
-### Compiles and minifies for production
+### please check user.json in db folder
 ```
 npm run build
 ```
